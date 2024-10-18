@@ -1,0 +1,5 @@
+return {
+	{
+		"noorwachid/nvim-rsync",
+	},
+}
