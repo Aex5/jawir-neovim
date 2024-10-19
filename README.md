@@ -2,7 +2,7 @@
 
 ## Home
 
-![Home Image](./sample/jawir.jepg)
+![Home Image](./sample/jawir.jpeg)
 
 Welcome to the project! This section provides an overview of what the project is about.
 
