@@ -8,6 +8,7 @@ git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 ## Update
 ```:Lazy sync``` command
 
+
 ## Uninstall
 ```bash
 # Linux / MacOS (unix)
