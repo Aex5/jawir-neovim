@@ -24,7 +24,6 @@ return {
 		-- Setup LSP servers
 		mason_lspconfig.setup({
 			ensure_installed = {
-				"tsserver", -- TypeScript/JavaScript server
 				"html", -- HTML server
 				"cssls", -- CSS server
 				"tailwindcss", -- Tailwind CSS server

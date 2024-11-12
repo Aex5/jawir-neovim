@@ -2,7 +2,7 @@
 
 ## Install
 ```bash
-git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/Aex5/jawir-neovim.git ~/.config/nvim && nvim
 ```
 
 ## Update
